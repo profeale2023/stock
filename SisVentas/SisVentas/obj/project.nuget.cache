@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUJiXyHs0JblRA/4gOHNT4a/va317YVMM7YkkTgN/l5x4xVAnseGU+GWWwVmgoCBmr2yK1lqoGQafnmav5nPTA==",
+  "dgSpecHash": "7eTGKQsfqJfBU782AOZadlPkmoxkwAPvCew7JnTSjWX6Z3ZeGfrj8e1Ti0t9tDr+1NT4zaDlwfiNW3Dy5FkyEg==",
   "success": true,
-  "projectFilePath": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\SisVentas\\SisVentas.vbproj",
+  "projectFilePath": "G:\\Sistema Menu\\SisVentas\\SisVentas\\SisVentas.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\et24-pc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\et24-pc\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",

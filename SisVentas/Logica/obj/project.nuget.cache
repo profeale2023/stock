@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qYILjfgPKkDjkW9qnOAgMx6qA3wP/zF8jG2IdKSvHw57ZIGKSlCnkVFyv5lFnK5bpsjMzBeqZ8CHQZUz5DgaA==",
+  "dgSpecHash": "zxzWh7haa1Zab5vgIRH5oj657gqudt/HXsbgK+iyKR4714U7gLtpvXsaduX+TAKgwy4G3E7GmoU9XsS80v64mg==",
   "success": true,
-  "projectFilePath": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\Logica\\Logica.vbproj",
+  "projectFilePath": "G:\\Sistema Menu\\SisVentas\\Logica\\Logica.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\et24-pc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\et24-pc\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",

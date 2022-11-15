@@ -506,11 +506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\SisVentas\\SisVentas.vbproj",
+      "projectUniqueName": "G:\\Sistema Menu\\SisVentas\\SisVentas\\SisVentas.vbproj",
       "projectName": "SisVentas",
-      "projectPath": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\SisVentas\\SisVentas.vbproj",
+      "projectPath": "G:\\Sistema Menu\\SisVentas\\SisVentas\\SisVentas.vbproj",
       "packagesPath": "C:\\Users\\et24-pc\\.nuget\\packages\\",
-      "outputPath": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\SisVentas\\obj\\",
+      "outputPath": "G:\\Sistema Menu\\SisVentas\\SisVentas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -531,8 +531,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\Datos\\Datos.vbproj": {
-              "projectPath": "G:\\recuperado\\ARCHIVOS ALEJANDRA\\2022\\00. Laboratorio\\Domingo 0611 - parte 3\\SisVentas\\Datos\\Datos.vbproj"
+            "G:\\Sistema Menu\\SisVentas\\Datos\\Datos.vbproj": {
+              "projectPath": "G:\\Sistema Menu\\SisVentas\\Datos\\Datos.vbproj"
             }
           }
         }
